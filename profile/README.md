@@ -18,7 +18,7 @@ We aim to create a comprehensive platform that fosters spiritual growth and comm
 
 We welcome contributions from developers, designers, and anyone passionate about building a faith-based community online. To get started:
 
-1. Explore our repositories under the [In His Path GitHub Organization](https://github.com/inhispath).
+1. Explore our repositories [here](https://github.com/orgs/inhispath/repositories).
 2. Follow us and star our repositories to support us.
 
 ## 📬 Stay Connected
