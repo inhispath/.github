@@ -24,6 +24,6 @@ We welcome contributions from developers, designers, and anyone passionate about
 ## 📬 Stay Connected
 
 - 🌐 Website: [inhispath.com](https://inhispath.com)
-- 📧 Contact: [contact@inhispath.com](mailto:support@inhispath.com)
+- 📧 Contact: [support@inhispath.com](mailto:support@inhispath.com)
 
 Join us in building a platform that brings believers together, fostering a deeper connection with God and each other.
