@@ -26,4 +26,8 @@ We welcome contributions from developers, designers, and anyone passionate about
 - 🌐 Website: [inhispath.com](https://inhispath.com)
 - 📧 Contact: [support@inhispath.com](mailto:support@inhispath.com)
 
+## 💖 Special Thanks
+
+@walterwhitesbacon
+
 Join us in building a platform that brings believers together, fostering a deeper connection with God and each other.
