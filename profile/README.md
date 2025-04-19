@@ -28,6 +28,16 @@ We welcome contributions from developers, designers, and anyone passionate about
 
 ## 💖 Special Thanks
 
-[@walterwhitesbacon](https://github.com/walterwhitesbacon)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/walterwhitesbacon">
+        <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="100px;" alt="walterwhitesbacon"/>
+        <br /><sub><b>@walterwhitesbacon</b></sub>
+      </a>
+    </td>
+    <!-- Repeat for more contributors -->
+  </tr>
+</table>
 
 Join us in building a platform that brings believers together, fostering a deeper connection with God and each other.
