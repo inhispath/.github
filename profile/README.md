@@ -33,4 +33,5 @@ We welcome contributions from developers, designers, and anyone passionate about
 </a>
 <br>
 
+
 Join us in building a platform that brings believers together, fostering a deeper connection with God and each other.
