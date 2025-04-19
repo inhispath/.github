@@ -32,6 +32,5 @@ We welcome contributions from developers, designers, and anyone passionate about
   <img src="https://github.com/walterwhitesbacon.png" width="80" height="80" style="border-radius: 50%;" alt="@walterwhitesbacon"/>
 </a>
 <br>
-<a href="https://github.com/walterwhitesbacon">@walterwhitesbacon</a>
 
 Join us in building a platform that brings believers together, fostering a deeper connection with God and each other.
