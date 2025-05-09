@@ -31,9 +31,6 @@ We welcome contributions from developers, designers, and anyone passionate about
 <a href="https://github.com/walterwhitesbacon">
   <img src="https://github.com/walterwhitesbacon.png" width="80" height="80" style="border-radius: 50%;" alt="@walterwhitesbacon"/>
 </a>
-<a href="https://github.com/cuhsy">
-  <img src="https://github.com/cuhsy.png" width="80" height="80" style="border-radius: 50%;" alt="@cuhsy"/>
-</a>
 
 
 #
